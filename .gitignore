@@ -1,0 +1,6 @@
+env/
+cfcert.pem
+cfkey.pem
+cloudflare.crt
+.env*
+workspace.code-workspace

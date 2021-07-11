@@ -1,0 +1,54 @@
+.navbar {
+    background: #006464;
+    height: 8em;
+}
+
+.logo {
+    /* fill: #cfcfcf; */
+    height: 5em;
+    width: auto;
+}
+
+.nav-link {
+    color: #cfcfcf;
+    font-size: 2em;
+}
+
+.nav-link:hover {
+    color: #FFFFFF;
+}
+
+body {
+    background: #00201E;
+    font-family: 'Roboto', sans-serif;
+}
+
+.terminal {
+    border: 1px solid #263243;
+    color: #FFFFFF;
+}
+
+#header-bar {
+    height: 1.75em;
+    background-color: black;
+}
+
+#header-bar .col-auto {
+    height: 100%;
+}
+
+.header-icon {
+    height: 60%;
+    width: auto;
+}
+
+.window {
+    color: #FFFFFF;
+    background-color: #0C0C0C;
+}
+
+.window-icons {
+    width: 16px;
+    height: auto;
+}
+
